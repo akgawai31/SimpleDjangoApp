@@ -1,0 +1,1 @@
+This Simple Django Project, where peaple can register, login, Tweet, edit or delete tweet and logout
